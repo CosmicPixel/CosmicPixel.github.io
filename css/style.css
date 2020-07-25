@@ -38,7 +38,7 @@ body {
   }
   
   .logo img {
-    display: inline-block
+    display: inline-block;
     float: left;
     position: relative;
   
@@ -47,7 +47,7 @@ body {
   h1 {
     text-align: center;
     text-size-adjust: 20;
-    padding: 250px;
+    padding-top: 50px;
     
   }
 
